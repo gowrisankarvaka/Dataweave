@@ -1,0 +1,45 @@
+{
+  "countOfItems": 3,
+  "lineItems": [
+    {
+      "lineItemId": "8b5359ce-3848-4c7c-a2c7-cd38ff12fee3",
+      "exportDate": "1900-01-01 00:00:00:000",
+      "childLineItemIds": [
+        "d8fac614-52f7-4e6f-a335-e16ab22d09af"
+      ],
+      "parent": true,
+      "firmPaid": false,
+      "personal": false
+    },
+    {
+      "parentId": "8b5359ce-3848-4c7c-a2c7-cd38ff12fee3",
+      "lineItemId": "d8fac614-52f7-4e6f-a335-e16ab22d09af",
+      "exportDate": "2022-07-18 12:11:58:058"
+    },
+    {
+      "lineItemId": "8b5359ce-3848-4c7c-a2c7-cd38ff12fee4",
+      "exportDate": "1900-01-01 00:00:00:000",
+      "childLineItemIds": [
+        "d8fac614-52f7-4e6f-a335-e16ab22d09an"
+      ],
+      "parent": true,
+      "firmPaid": false,
+      "personal": false
+    },
+    {
+      "lineItemId": "7da1b634-182f-4f21-b5f2-00419651c629",
+      "exportDate": "2022-07-2012:11:58:058"
+    }
+    ,
+    {
+      "lineItemId": "d8fac614-52f7-4e6f-a335-e16ab22d09an",
+      "exportDate": "1900-01-01 00:00:00:000",
+      "childLineItemIds": [
+        "d8fac614-52f7-4e6f-a335-e16ab22d09an"
+      ],
+      "parent": true,
+      "firmPaid": false,
+      "personal": false
+    }
+  ]
+}

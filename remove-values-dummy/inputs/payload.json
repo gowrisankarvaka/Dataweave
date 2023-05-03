@@ -1,0 +1,39 @@
+{
+  "departmentChange": "DUMMY",
+  "departmentNumber": "DUMMY",
+  "title": {
+    "title": {
+      "key": "title",
+      "oldValue": "ABCD",
+      "newValue": "ABCDE"
+    }
+  },
+  "erts": "DUMMY",
+  "accrt": "DUMMY",
+  "accpr": "DUMMY",
+  "prns": "DUMMY",
+  "company": "DUMMY",
+  "streetAddress": {
+    "streetAddress": {
+      "key": "streetAddress",
+      "oldValue": "ABCD",
+      "newValue": "ABCDE"
+    }
+  },
+  "LI": {
+    "LI": {
+      "key": "L",
+      "oldValue": null,
+      "newValue": "INDIA"
+    }
+  },
+  "st": "DUMMY",
+  "postalCode": {
+    "postalCode": {
+      "key": "postalCode",
+      "oldValue": "110021",
+      "newValue": "110035"
+    }
+  },
+  "department": "DUMMY"
+}

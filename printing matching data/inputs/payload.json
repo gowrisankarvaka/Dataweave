@@ -1,0 +1,19 @@
+[
+  {
+    "actionDate": "2023-05-03",
+    "sourceKey": "O19ZJ01HL",
+    "count": 1,
+    "pricingDetail": "RECEIPT_SCAN",
+    "pricingDetailId": [
+      "a0x3Z0000090mYnQAI",
+      "a0x3Z0000090mYpQAI",
+      "a0x3Z0000090mYrQAI",
+      "a0x3Z0000090mZ0QAI",
+      "a0x3Z0000090mZ2QAI",
+      "a0x3Z0000090mZ4QAI",
+      "a0x3Z0000090mZAQAY",
+      "a0x3Z0000090mZEQAY",
+      "a0x3Z0000090mZ9QAI"
+    ]
+  }
+]

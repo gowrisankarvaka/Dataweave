@@ -1,0 +1,6 @@
+{
+"EmpSalary" : 10000,
+ "EmpName" : "GOWRI",
+ "TypeofEmploye" : "Contract",
+ "Country" : ["TCS", "API-CENTRICS","GENPAC","GRCSTACK","HEXAWARE"]
+ }

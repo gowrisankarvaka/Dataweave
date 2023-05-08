@@ -1,0 +1,18 @@
+[
+	{
+		"internal_emp_name": "YATAN",
+		"internal_emp_id": "101",
+		"internal_emp_dept": "IT",
+		"external_emp_name": "YATAN123",
+		"external_emp_id": "A-101",
+		"external_emp_dept": "A-IT"		
+	},
+	{
+		"internal_emp_name": "YAGYA",
+		"internal_emp_id": "102",
+		"internal_emp_dept": "HR",
+		"external_emp_name": "YAGYA123",
+		"external_emp_id": "A-102",
+		"external_emp_dept": "A-HR"	
+	}	
+]

@@ -1,0 +1,18 @@
+{
+  "ZCUSTWAR": {
+    "IDOC": {
+      "Z1SDC": {
+        "KUNR": "01015175",
+        "CNAM": "CENTRAL"
+      },
+      "Z1WC": {
+        "ZCUST": "W1",
+        "KUNR": "01"
+      },
+      "Z1WC": {
+        "ZCUST": "W2",
+        "KUNR": "02"
+      }
+    }
+  }
+}

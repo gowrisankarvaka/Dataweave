@@ -1,0 +1,32 @@
+{
+  "RESPONSE": [
+    {
+      "MANDT": "300",
+      "HKONT": "0000012131",
+      "BUKRS": "8000",
+      "BELNR": "7244951737",
+      "GJAHR": "2022",
+      "RFZEI": "001",
+      "CCINS": "VISA",
+      "CCNUM": "7030000000068941111",
+      "DATBI": "2030-12-01",
+      "CCNAME": "Ilona Shabelnyk",
+      "CSOUR": "E",
+      "AUTWR": 954.11,
+      "SETWR": 949.64,
+      "CCWAE": "USD",
+      "AUNUM": "831000",
+      "AUTRA": "6348260188636594104004",
+      "AUDAT": "2021-10-21",
+      "AUTIM": "02:20:19",
+      "MERCH": "WFGUSP8000",
+      "EXDFL": "X",
+      "KUNNR": "0000021540",
+      "PRIMARY_SUBRC": "",
+      "L3_STATUS": "",
+      "FIELD": "id",
+      "REASON": "INVALID_DATA",
+      "STATUS": "INVALID_REQUEST"
+    }
+  ]
+}

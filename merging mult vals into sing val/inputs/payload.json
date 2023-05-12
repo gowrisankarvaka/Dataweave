@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "resource": "quotes",
+      "destinationType": "SAP"
+    }
+  ],
+  [
+    {
+      "resource": "contracts",
+      "destinationType": "salesforce"
+    },
+    {
+      "resource": "contracts",
+      "destinationType": "salesforce"
+    }
+  ]
+]

@@ -1,0 +1,48 @@
+[
+  {
+    
+  },
+  {
+    "data": [
+      {
+        "data": {
+          "RecordType": {
+            "type": "RecordType",
+            "DeveloperName": "Business"
+          },
+          "Id": "0013H00000Xgn8SQAR",
+          "type": "Account",
+          "Contracts": [
+            {
+              "Status": "Draft",
+              "IsDeleted": "false",
+              "Id": "8003H000000tlzMQAQ",
+              "type": "Contract"
+            }
+          ],
+          "AccountNumber": "000378",
+          "Name": "Test Auto-Number Account 1"
+        },
+        "hasContractClaimOrQuote": true
+      }
+    ]
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  }
+]

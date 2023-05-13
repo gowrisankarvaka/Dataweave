@@ -1,0 +1,19 @@
+{
+  "ProfileData": {
+    "FirstName": "Robin",
+    "LastName": "Smith",
+    "Email": "rsmithtest@yahoo.com"
+  },
+  "OtherData": {
+    "GDPR": {
+      "SignatureDate": "20221-11-19",
+      "Vetaran": "Yes"
+    },
+    "ScreeningQuestions": [
+      {
+        "Label": "Are you willing to relocate?",
+        "Value": "Yes"
+      }
+    ]
+  }
+}

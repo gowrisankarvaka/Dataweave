@@ -1,0 +1,23 @@
+[
+  {
+    "Group": "FL",
+    "User ID": "111",
+    "User Status": "Active",
+    "EnrollDate": "20Sep2022",
+    "Role": "Participant"
+  },
+  {
+    "Group": "WO",
+    "User ID": "222",
+    "User Status": "InActive",
+    "EnrollDate": "15Jun2022",
+    "Role": "Admin"
+  },
+  {
+    "Group": "BE",
+    "User ID": "333",
+    "User Status": "Active",
+    "EnrollDate": "15Feb2022",
+    "Role": "Coordinator"
+  }
+]

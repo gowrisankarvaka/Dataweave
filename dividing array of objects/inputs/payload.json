@@ -1,0 +1,26 @@
+[
+  {
+    "api": "123",
+    "AssetName": "test-api",
+    "Status": "published",
+    "api": "456",
+    "AssetName": "rest-api",
+    "Status": "notpublished",
+    "api": "789",
+    "AssetName": "soap-api",
+    "Status": "published"
+  },
+  {
+    "api": "097",
+    "AssetName": "test-api",
+    "Status": "approaved"
+  },
+  {
+    "api": "678",
+    "AssetName": "test-api",
+    "Status": "notpublished",
+    "api": "357",
+    "AssetName": "soap-api",
+    "Status": "published"
+  }
+]

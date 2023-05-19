@@ -1,0 +1,29 @@
+{
+  "sample_payload": [
+    {
+      "sample": [
+        {
+          "tag_type": "sample1",
+          "code": "code",
+          "description": "Test data",
+          "option_code": "TYPE"
+        },
+        {
+          "tag_type": "sample2",
+          "code": "Gang",
+          "description": "Test data1",
+          "option_code": "TYPE"
+        }
+      ]
+    },
+    {
+      "sample": [
+        {
+          "tag_type": "sample",
+          "code": "code",
+          "description": "Dear "
+        }
+      ]
+    }
+  ]
+}

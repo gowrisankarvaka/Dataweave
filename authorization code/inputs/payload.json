@@ -1,0 +1,11 @@
+{
+  "mule": {
+    "Header": {
+      "user": "user",
+      "password": "pass"
+    },
+    "Body": {
+      
+    }
+  }
+}

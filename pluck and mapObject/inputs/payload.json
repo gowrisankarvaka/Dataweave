@@ -1,0 +1,20 @@
+{
+    "Balance": {
+        "1918": {
+            "ID": "5238",
+            "Location": {
+                "LocationID": "5238",
+                "LocationName": "AAA1"
+            },
+            "Number": "1918"
+        },
+        "6922": {
+            "ID": "11635",
+            "Location": {
+                "LocationID": "11635",
+                "LocationName": "AAA2"
+            },
+            "Number": "6922"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[
+ {
+ "name": "abc",
+ "city" : "hyd"
+ },
+ {
+ "name": "xyz",
+ "city" : "delhi"
+ },
+ {
+ "name": "abc1",
+ "city" : "hyd"
+ }
+]

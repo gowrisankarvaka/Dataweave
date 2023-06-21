@@ -1,0 +1,19 @@
+[
+  {
+    "Amount": null,
+    "Currency": "EUR",
+    "CommunicationStructured": 3623433380,
+    "RecipientAccount": null,
+    "DirectDebitNumber": null,
+    "MemoDate": "2023-05-15",
+    "DueDate": "2023-05-15"
+  },
+  {
+    "Amount": 13.5,
+    "Currency": "EUR",
+    "DocumentType": "INVOICE",
+    "FirstName": null,
+    "LastName": null,
+    "LanguageCode": "French"
+  }
+]

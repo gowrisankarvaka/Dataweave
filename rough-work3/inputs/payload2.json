@@ -1,0 +1,22 @@
+{
+  "element1": {
+    "optIn": null,
+    "optInDate": null,
+    "optOutDate": null
+  },
+  "element2": {
+    "optIn": null,
+    "optInDate": null,
+    "optOutDate": null
+  },
+  "element3": {
+    "optIn": false,
+    "optInDate": null,
+    "optOutDate": null
+  },
+  "element4": {
+    "optIn": true,
+    "optInDate": null,
+    "optOutDate": null
+  }
+}

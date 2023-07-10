@@ -1,0 +1,44 @@
+{
+  "productName": [
+    {
+      "id": 321,
+      "name": "Keyboard",
+      "school": "abc"
+    },
+    {
+      "id": 123,
+      "name": "Mouse",
+      "school": "def"
+    },
+    {
+      "id": 345,
+      "name": "Monitor",
+      "school": "ghi"
+    },
+    {
+      "id": 987,
+      "name": "Motherboard",
+      "school": "jkl"
+    }
+  ],
+  "productPrices": [
+    {
+      "id": 321,
+      "price": 1200,
+      "product": 23
+    },
+    {
+      "id": 123,
+      "price": 600,
+      "product": 23
+    },
+    {
+      "id": 345,
+      "price": 12000
+    },
+    {
+      "id": 789,
+      "price": 450
+    }
+  ]
+}

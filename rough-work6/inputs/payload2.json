@@ -1,0 +1,60 @@
+{
+  "skipped": [
+    {
+      "index": 1,
+      "skipped": "skipped",
+      "reasons": [
+        {
+          "code": "1004",
+          "message": "Lead not found"
+        }
+      ],
+      "matchingRecord": {
+        "email": "abc@abc.com",
+        "RegistrationDate": "2023-05-08T18:12:37Z"
+      }
+    },
+    {
+      "index": 7,
+      "skipped": "skipped",
+      "reasons": [
+        {
+          "code": "1004",
+          "message": "Lead not found"
+        }
+      ],
+      "matchingRecord": {
+        "email": "abc@abc.com",
+        "RegistrationDate": "2023-05-07T18:09:30Z"
+      }
+    },
+    {
+      "index": 8,
+      "skipped": "skipped",
+      "reasons": [
+        {
+          "code": "1007",
+          "message": "Multiple lead match lookup criteria"
+        }
+      ],
+      "matchingRecord": {
+        "email": "aa@aa.com",
+        "RegistrationDate": "2023-05-07T13:32:34Z"
+      }
+    },
+    {
+      "index": 9,
+      "skipped": "skipped",
+      "reasons": [
+        {
+          "code": "1007",
+          "message": "Multiple lead match lookup criteria"
+        }
+      ],
+      "matchingRecord": {
+        "email": "bb@bb.com",
+        "RegistrationDate": "2023-05-05T17:38:21Z"
+      }
+    }
+  ]
+}

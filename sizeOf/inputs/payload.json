@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "vijay",
+    "lastname": "kumar",
+    "Jobtitle": "developer",
+    "dept": "IT"
+  },
+  {
+    "firstName": "somu",
+    "lastname": "shekar",
+    "Jobtitle": "developer",
+    "dept": "IT"
+  },
+  {
+    "firstName": "suresh",
+    "lastname": "kumar",
+    "Jobtitle": "analyst",
+    "dept": "oparations"
+  },
+  {
+    "firstName": "madhu",
+    "lastname": "kumar",
+    "Jobtitle": "analyst",
+    "dept": "finace"
+  }
+]

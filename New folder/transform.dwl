@@ -1,5 +1,5 @@
 %dw 2.0
-output application/json
+output application/csv
 var duprecords = ["Source","Relation","First Name","Last Name","DOB","DOD","Address","City","State","Zip","Phone #"]
 ---
 payload map ((item, index) -> 

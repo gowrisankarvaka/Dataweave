@@ -2,7 +2,7 @@
 output application/csv
 var duprecords = ["Source","Relation","First Name","Last Name","DOB","DOD","Address","City","State","Zip","Phone #"]
 ---
-(payload map ((item, index) -> 
+payload map ((item, index) -> 
     {
         (item -- duprecords),
         (0 to sizeOf(item)/10-4 map 
@@ -19,4 +19,4 @@ var duprecords = ["Source","Relation","First Name","Last Name","DOB","DOD","Addr
             ('Zip' ++ $$+1): ((item.*Zip)[$]),
             ('Phone #' ++ $$+1): ((item.*'Phone #')[$]),
         })
-    }))
+    })
